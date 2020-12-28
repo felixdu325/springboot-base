@@ -5,5 +5,8 @@ public class Main {
 		System.out.println("main class");
 		
 		System.out.println("git1");
+		//resolved		
+		System.out.println("git hub");
+		
 	}
 }
